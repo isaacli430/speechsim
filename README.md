@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-<br>
+
 **add_to_data**(messages)
 
 Adds to the speech data based on given messages
@@ -18,7 +18,7 @@ Adds to the speech data based on given messages
 <br>
 <br>
 <br>
-<br>
+
 **create_message()**
 
 Creates a message based on current speech data
